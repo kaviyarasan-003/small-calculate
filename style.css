@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+div{
+
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    margin-left: 500px;
+    padding-top: 100px;
+    background-color: antiquewhite;
+    margin-top: 30px;
+    
+}
+
+button{
+    width: 70px;
+
+}
+
+#num1{
+    width: 200px;
+    font-size:large;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+#num2{
+    width: 200px;
+    font-size: large;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+.one{
+    text-align: center;
+}
